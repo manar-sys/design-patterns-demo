@@ -90,6 +90,12 @@
       "name": "Run Composite Example",
       "request": "launch",
       "mainClass": "patterns.structural.composite.CompositeExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Flyweight Example",
+      "request": "launch",
+      "mainClass": "patterns.structural.flyweight.FlyweightExample"
     }
   ]
 }
