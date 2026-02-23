@@ -126,6 +126,12 @@
       "name": "Run Memento Example",
       "request": "launch",
       "mainClass": "patterns.behavioral.memento.MementoExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Visitor Example",
+      "request": "launch",
+      "mainClass": "patterns.behavioral.visitor.VisitorExample"
     }
   ]
 }
