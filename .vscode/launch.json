@@ -78,6 +78,12 @@
       "name": "Run Prototype Example",
       "request": "launch",
       "mainClass": "patterns.creational.prototype.PrototypeExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Bridge Example",
+      "request": "launch",
+      "mainClass": "patterns.structural.bridge.BridgeExample"
     }
   ]
 }
