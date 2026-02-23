@@ -108,6 +108,12 @@
       "name": "Run Template Method Example",
       "request": "launch",
       "mainClass": "patterns.behavioral.templatemethod.TemplateMethodExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Iterator Example",
+      "request": "launch",
+      "mainClass": "patterns.behavioral.iterator.IteratorExample"
     }
   ]
 }
