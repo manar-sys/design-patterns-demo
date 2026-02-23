@@ -72,6 +72,12 @@
       "name": "Run Proxy Example",
       "request": "launch",
       "mainClass": "patterns.structural.proxy.ProxyExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Prototype Example",
+      "request": "launch",
+      "mainClass": "patterns.creational.prototype.PrototypeExample"
     }
   ]
 }
