@@ -120,6 +120,12 @@
       "name": "Run Mediator Example",
       "request": "launch",
       "mainClass": "patterns.behavioral.mediator.MediatorExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Memento Example",
+      "request": "launch",
+      "mainClass": "patterns.behavioral.memento.MementoExample"
     }
   ]
 }
