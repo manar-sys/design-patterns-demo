@@ -102,6 +102,12 @@
       "name": "Run State Example",
       "request": "launch",
       "mainClass": "patterns.behavioral.state.StateExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Template Method Example",
+      "request": "launch",
+      "mainClass": "patterns.behavioral.templatemethod.TemplateMethodExample"
     }
   ]
 }
