@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build Java Project",
+      "type": "shell",
+      "command": "javac -d out $(find src -name '*.java')",
+      "problemMatcher": ["$javac"],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}

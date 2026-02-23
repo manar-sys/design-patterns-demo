@@ -1,0 +1,77 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Factory Method Demo",
+      "request": "launch",
+      "mainClass": "patterns.creational.factorymethod.Demo"
+    },
+    {
+      "type": "java",
+      "name": "Run Abstract Factory Example",
+      "request": "launch",
+      "mainClass": "patterns.creational.abstractfactory.AbstractFactoryExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Builder Example",
+      "request": "launch",
+      "mainClass": "patterns.creational.builder.BuilderExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Singleton Example",
+      "request": "launch",
+      "mainClass": "patterns.creational.singleton.SingletonExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Adapter Example",
+      "request": "launch",
+      "mainClass": "patterns.structural.adapter.AdapterExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Decorator Example",
+      "request": "launch",
+      "mainClass": "patterns.structural.decorator.DecoratorExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Facade Example",
+      "request": "launch",
+      "mainClass": "patterns.structural.facade.FacadeExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Strategy Example",
+      "request": "launch",
+      "mainClass": "patterns.behavioral.strategy.StrategyExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Observer Example",
+      "request": "launch",
+      "mainClass": "patterns.behavioral.observer.ObserverExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Command Example",
+      "request": "launch",
+      "mainClass": "patterns.behavioral.command.CommandExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Chain of Responsibility Example",
+      "request": "launch",
+      "mainClass": "patterns.behavioral.chain.ChainOfResponsibilityExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Proxy Example",
+      "request": "launch",
+      "mainClass": "patterns.structural.proxy.ProxyExample"
+    }
+  ]
+}
