@@ -84,6 +84,12 @@
       "name": "Run Bridge Example",
       "request": "launch",
       "mainClass": "patterns.structural.bridge.BridgeExample"
+    },
+    {
+      "type": "java",
+      "name": "Run Composite Example",
+      "request": "launch",
+      "mainClass": "patterns.structural.composite.CompositeExample"
     }
   ]
 }
